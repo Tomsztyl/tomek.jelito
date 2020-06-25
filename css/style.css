@@ -993,15 +993,15 @@ section.skills p+p {
 }
 
 section.skills .skill:nth-of-type(1) p+p {
-  left: 90%;
+  left: 60%;
 }
 
 section.skills .skill:nth-of-type(2) p+p {
-  left: 50%;
+  left: 40%;
 }
 
 section.skills .skill:nth-of-type(3) p+p {
-  left: 90%;
+  left: 60%;
 }
 
 section.skills .skill:nth-of-type(4) p+p {
@@ -1013,7 +1013,7 @@ section.skills .skill:nth-of-type(5) p+p {
 }
 
 section.skills .skill:nth-of-type(6) p+p {
-  left: 50%;
+  left: 40%;
 }
 
 section.skills .skill:nth-of-type(7) p+p {
@@ -1166,7 +1166,7 @@ section.skills.active .skill:nth-of-type(11)::before {
   }
 
   100% {
-    width: 90%;
+    width: 60%;
   }
 }
 
@@ -1176,7 +1176,7 @@ section.skills.active .skill:nth-of-type(11)::before {
   }
 
   100% {
-    width: 50%;
+    width: 40%;
   }
 }
 
@@ -1186,7 +1186,7 @@ section.skills.active .skill:nth-of-type(11)::before {
   }
 
   100% {
-    width: 90%;
+    width: 60%;
   }
 }
 
@@ -1216,7 +1216,7 @@ section.skills.active .skill:nth-of-type(11)::before {
   }
 
   100% {
-    width: 50%;
+    width: 40%;
   }
 }
 
@@ -1286,7 +1286,7 @@ section.skills.active .skill:nth-of-type(11)::before {
   }
 
   100% {
-    left: 90%;
+    left: 60%;
   }
 }
 
@@ -1296,7 +1296,7 @@ section.skills.active .skill:nth-of-type(11)::before {
   }
 
   100% {
-    left: 50%;
+    left: 40%;
   }
 }
 
@@ -1306,7 +1306,7 @@ section.skills.active .skill:nth-of-type(11)::before {
   }
 
   100% {
-    left: 90%;
+    left: 60%;
   }
 }
 
@@ -1336,7 +1336,7 @@ section.skills.active .skill:nth-of-type(11)::before {
   }
 
   100% {
-    left: 50%;
+    left: 40%;
   }
 }
 
