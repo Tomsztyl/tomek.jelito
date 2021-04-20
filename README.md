@@ -1,2 +1,4 @@
-# tomek.jelito
-Portfolio
+- 👋 Hi, I’m @Tomsztyl
+- 👀 I’m interested in Cyberpunk2077 The Witcher Disney Unity/C# NASA Billie Eilish Dia de Muertos 💛
+- 🌱 I’m currently learning Unity/C# / PHP / DB / Java Script / 
+- 📫 How to reach me https://tomsztyl.github.io/tomek.jelito/
