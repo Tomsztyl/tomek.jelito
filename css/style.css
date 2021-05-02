@@ -1474,23 +1474,23 @@ section.projects i {
 
 
 section.projects .project:nth-child(1) {
-  background-image: url('../img/ultimateFuture.jpg');
+  background-image: url('../img/project1.jpg');
 }
 
 section.projects .project:nth-child(2) {
-  background-image: url('../img/snake.jpg');
+  background-image: url('../img/project2.jpg');
 }
 
 section.projects .project:nth-child(3) {
-  background-image: url('../img/cyberLife.jpg');
+  background-image: url('../img/project3.jpg');
 }
 
 section.projects .project:nth-child(4) {
-  background-image: url('../img/makeFuture.jpg');
+  background-image: url('../img/project4.jpg');
 }
 
 section.projects .project:nth-child(5) {
-  background-image: url('../img/modSoundEditor.jpg');
+  background-image: url('../img/project5.jpg');
 }
 
 section.projects .project:nth-child(6) {
